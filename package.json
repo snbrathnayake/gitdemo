@@ -1,0 +1,16 @@
+{
+  "name": "gitdemo",
+  "version": "1.0.0",
+  "description": "github command demos",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "npm-watch": "^0.6.0"
+  }
+}
